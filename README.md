@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Deasia Wood 👋
 
-<!--
-**DeasiaWood/DeasiaWood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity & IAM Professional in Training
+📍 Charlotte, NC | 🎓 CPCC — CompTIA Security+ & CySA+ (in progress)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I'm a data management professional transitioning into cybersecurity,
+currently studying at CPCC in Charlotte. I'm building hands-on skills
+in both IAM (Identity & Access Management) and SOC analysis through
+structured lab work and real-world tool practice.
+
+---
+
+### Certifications (In Progress)
+- 🔵 CompTIA Security+ — Expected May 2026
+- 🔵 CompTIA CySA+ — Expected May 2026
+- ✅ Cisco Networking Academy — Networking Basics
+- ✅ Splunk Core Certified User
+- ✅ Okta Certified — Level 1
+
+---
+
+### Technical Skills
+**IAM:** Azure AD | Okta | Active Directory | PowerShell | AWS IAM
+**SOC:** Splunk | Wireshark | LetsDefend | Threat Analysis | SIEM
+**OS:** Linux (CLI) | Windows Server | Bash scripting
+
+---
+
+### Portfolio Projects
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [IAM Labs](link) | Okta SSO, MFA config, Azure AD provisioning | Okta, Azure AD, PowerShell |
+| [SOC Labs](link) | Phishing investigation, alert triage write-ups | Splunk, LetsDefend |
+| [SIEM Capstone](link) | Home ELK Stack SIEM build & detection rules | ELK, Linux |
+| [Network Labs](link) | Packet analysis, traffic investigation | Wireshark, TryHackMe |
+
+---
+
+📫 Connect: [] | 📧 [deasia.dennard@icloud.com]

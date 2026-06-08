@@ -1,25 +1,23 @@
 # Hi, I'm Deasia Wood 👋
 
 ## Cybersecurity & IAM Professional in Training
-📍 Charlotte, NC | 🎓 CPCC — CompTIA Security+ & CySA+ (in progress)
+📍 Charlotte, NC | 🎓 CPCC — Cybersecurity Analyst course completed April 2026
 
 ---
 
 ### About Me
-I'm a data management professional transitioning into cybersecurity,
-currently studying at CPCC in Charlotte. I'm building hands-on skills
+I'm a data management professional transitioning into cybersecurity. I'm currently building hands-on skills
 in both IAM (Identity & Access Management) and SOC analysis through
 structured lab work and real-world tool practice.
 
 ---
 
+### Certifications Completed
+- ✅ CompTIA Security+ — May 2026
+  
 ### Certifications (In Progress)
-- 🔵 CompTIA Security+ — Expected May 2026
-- 🔵 CompTIA CySA+ — Expected May 2026
-- ✅ Cisco Networking Academy — Networking Basics
-- ✅ Splunk Core Certified User
-- ✅ Okta Certified — Level 1
-
+- 🔵 Microsoft SC-300 — Expected August 2026
+  
 ---
 
 ### Technical Skills

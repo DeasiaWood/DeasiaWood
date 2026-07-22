@@ -16,7 +16,7 @@ structured lab work and real-world tool practice.
 - ✅ CompTIA Security+ — May 2026
   
 ### Certifications (In Progress)
-- 🔵 Microsoft SC-300 — Expected August 2026
+- 🔵 Microsoft SC-300 — Expected September 2026
   
 ---
 

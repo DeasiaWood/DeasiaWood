@@ -21,9 +21,9 @@ structured lab work and real-world tool practice.
 ---
 
 ### Technical Skills
-**IAM:** Azure AD | Okta | Active Directory | PowerShell | AWS IAM
-**SOC:** Splunk | Wireshark | LetsDefend | Threat Analysis | SIEM
-**OS:** Linux (CLI) | Windows Server | Bash scripting
+**IAM:** Azure AD | Active Directory | AWS IAM
+**SOC:** LetsDefend | Threat Analysis | SIEM
+**OS:** Linux (CLI) | Windows Server | 
 
 ---
 
